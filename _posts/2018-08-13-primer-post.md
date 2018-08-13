@@ -1,5 +1,5 @@
 ---
-layout: trabajos
+layout: post
 title: Mi github y gitlab
 ---
 
